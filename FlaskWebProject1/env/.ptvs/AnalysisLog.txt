@@ -1,0 +1,1050 @@
+﻿
+2018-06-25T10:04:26: Start analysis
+2018-06-25T10:04:26: [WARNING] Library was set explicitly - skipping path detection
+2018-06-25T10:04:26: IncludeModulesFromModulePath = win32com
+2018-06-25T10:04:27: Deleting 0 files
+2018-06-25T10:04:27: Scraping builtin modules
+2018-06-25T10:04:27: Command: "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2018-06-25T10:04:30: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2018-06-25T10:04:30: Scraped builtin modules
+2018-06-25T10:04:31: astropy.CallDepth = 0
+2018-06-25T10:04:31: matplotlib.CallDepth = 3
+2018-06-25T10:04:31: pandas.CallDepth = 0
+2018-06-25T10:04:31: sympy.CallDepth = 0
+2018-06-25T10:04:31: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages" with 2 files
+2018-06-25T10:04:31: Parsing "easy_install" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\easy_install.py")
+2018-06-25T10:04:31: Parsing "itsdangerous" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\itsdangerous.py")
+2018-06-25T10:04:32: Parsing complete
+2018-06-25T10:04:32: Analyzing "easy_install"
+2018-06-25T10:04:32: Analyzing "itsdangerous"
+2018-06-25T10:04:32: Starting analysis of 2 modules
+2018-06-25T10:04:37: Analysis complete
+2018-06-25T10:04:37: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages"
+2018-06-25T10:04:37: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages"
+2018-06-25T10:04:37: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click" with 17 files
+2018-06-25T10:04:37: Parsing "click.core" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\core.py")
+2018-06-25T10:04:37: Parsing "click.decorators" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\decorators.py")
+2018-06-25T10:04:37: Parsing "click.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\exceptions.py")
+2018-06-25T10:04:37: Parsing "click.formatting" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\formatting.py")
+2018-06-25T10:04:37: Parsing "click.globals" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\globals.py")
+2018-06-25T10:04:37: Parsing "click.parser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\parser.py")
+2018-06-25T10:04:37: Parsing "click.termui" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\termui.py")
+2018-06-25T10:04:37: Parsing "click.testing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\testing.py")
+2018-06-25T10:04:37: Parsing "click.types" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\types.py")
+2018-06-25T10:04:37: Parsing "click.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\utils.py")
+2018-06-25T10:04:37: Parsing "click._bashcomplete" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_bashcomplete.py")
+2018-06-25T10:04:37: Parsing "click._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_compat.py")
+2018-06-25T10:04:37: Parsing "click._termui_impl" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_termui_impl.py")
+2018-06-25T10:04:37: Parsing "click._textwrap" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_textwrap.py")
+2018-06-25T10:04:37: Parsing "click._unicodefun" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_unicodefun.py")
+2018-06-25T10:04:37: Parsing "click._winconsole" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_winconsole.py")
+2018-06-25T10:04:37: Parsing "click" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\__init__.py")
+2018-06-25T10:04:37: Parsing complete
+2018-06-25T10:04:37: Analyzing "click.core"
+2018-06-25T10:04:37: Analyzing "click.decorators"
+2018-06-25T10:04:37: Analyzing "click.exceptions"
+2018-06-25T10:04:37: Analyzing "click.formatting"
+2018-06-25T10:04:37: Analyzing "click.globals"
+2018-06-25T10:04:37: Analyzing "click.parser"
+2018-06-25T10:04:37: Analyzing "click.termui"
+2018-06-25T10:04:37: Analyzing "click.testing"
+2018-06-25T10:04:37: Analyzing "click.types"
+2018-06-25T10:04:37: Analyzing "click.utils"
+2018-06-25T10:04:37: Analyzing "click._bashcomplete"
+2018-06-25T10:04:37: Analyzing "click._compat"
+2018-06-25T10:04:37: Analyzing "click._termui_impl"
+2018-06-25T10:04:37: Analyzing "click._textwrap"
+2018-06-25T10:04:37: Analyzing "click._unicodefun"
+2018-06-25T10:04:37: Analyzing "click._winconsole"
+2018-06-25T10:04:37: Analyzing "click"
+2018-06-25T10:04:37: Starting analysis of 17 modules
+2018-06-25T10:04:40: Analysis complete
+2018-06-25T10:04:40: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click"
+2018-06-25T10:04:40: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click"
+2018-06-25T10:04:40: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask" with 20 files
+2018-06-25T10:04:40: Parsing "flask.app" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\app.py")
+2018-06-25T10:04:40: Parsing "flask.blueprints" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\blueprints.py")
+2018-06-25T10:04:40: Parsing "flask.cli" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\cli.py")
+2018-06-25T10:04:40: Parsing "flask.config" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\config.py")
+2018-06-25T10:04:40: Parsing "flask.ctx" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\ctx.py")
+2018-06-25T10:04:40: Parsing "flask.debughelpers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\debughelpers.py")
+2018-06-25T10:04:40: Parsing "flask.globals" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\globals.py")
+2018-06-25T10:04:40: Parsing "flask.helpers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\helpers.py")
+2018-06-25T10:04:40: Parsing "flask.logging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\logging.py")
+2018-06-25T10:04:40: Parsing "flask.sessions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\sessions.py")
+2018-06-25T10:04:40: Parsing "flask.signals" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\signals.py")
+2018-06-25T10:04:40: Parsing "flask.templating" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\templating.py")
+2018-06-25T10:04:40: Parsing "flask.testing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\testing.py")
+2018-06-25T10:04:40: Parsing "flask.views" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\views.py")
+2018-06-25T10:04:40: Parsing "flask.wrappers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\wrappers.py")
+2018-06-25T10:04:40: Parsing "flask._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\_compat.py")
+2018-06-25T10:04:40: Parsing "flask" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\__init__.py")
+2018-06-25T10:04:40: Parsing "flask.__main__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\__main__.py")
+2018-06-25T10:04:40: Parsing "flask.json.tag" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\json\tag.py")
+2018-06-25T10:04:40: Parsing "flask.json" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\json\__init__.py")
+2018-06-25T10:04:40: Parsing complete
+2018-06-25T10:04:40: Analyzing "flask.app"
+2018-06-25T10:04:41: Analyzing "flask.blueprints"
+2018-06-25T10:04:41: Analyzing "flask.cli"
+2018-06-25T10:04:41: Analyzing "flask.config"
+2018-06-25T10:04:41: Analyzing "flask.ctx"
+2018-06-25T10:04:41: Analyzing "flask.debughelpers"
+2018-06-25T10:04:41: Analyzing "flask.globals"
+2018-06-25T10:04:41: Analyzing "flask.helpers"
+2018-06-25T10:04:41: Analyzing "flask.logging"
+2018-06-25T10:04:41: Analyzing "flask.sessions"
+2018-06-25T10:04:41: Analyzing "flask.signals"
+2018-06-25T10:04:41: Analyzing "flask.templating"
+2018-06-25T10:04:41: Analyzing "flask.testing"
+2018-06-25T10:04:41: Analyzing "flask.views"
+2018-06-25T10:04:41: Analyzing "flask.wrappers"
+2018-06-25T10:04:41: Analyzing "flask._compat"
+2018-06-25T10:04:41: Analyzing "flask"
+2018-06-25T10:04:41: Analyzing "flask.__main__"
+2018-06-25T10:04:41: Analyzing "flask.json.tag"
+2018-06-25T10:04:41: Analyzing "flask.json"
+2018-06-25T10:04:41: Starting analysis of 20 modules
+2018-06-25T10:04:44: Analysis complete
+2018-06-25T10:04:44: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask"
+2018-06-25T10:04:45: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask"
+2018-06-25T10:04:45: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2" with 27 files
+2018-06-25T10:04:45: Parsing "jinja2.asyncfilters" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\asyncfilters.py")
+2018-06-25T10:04:45: [WARNING] File "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\asyncfilters.py" contained parse errors
+2018-06-25T10:04:45: (24,17) - (24,22) 'yield' inside async function
+(112,13) - (112,18) 'yield' inside async function
+2018-06-25T10:04:45: Parsing "jinja2.asyncsupport" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\asyncsupport.py")
+2018-06-25T10:04:45: [WARNING] File "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\asyncsupport.py" contained parse errors
+2018-06-25T10:04:45: (35,13) - (35,18) 'yield' inside async function
+(40,5) - (40,10) 'yield' inside async function
+(184,13) - (184,18) 'yield' inside async function
+(187,9) - (187,14) 'yield' inside async function
+2018-06-25T10:04:45: Parsing "jinja2.bccache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\bccache.py")
+2018-06-25T10:04:45: Parsing "jinja2.compiler" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\compiler.py")
+2018-06-25T10:04:45: Parsing "jinja2.constants" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\constants.py")
+2018-06-25T10:04:45: Parsing "jinja2.debug" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\debug.py")
+2018-06-25T10:04:45: Parsing "jinja2.defaults" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\defaults.py")
+2018-06-25T10:04:45: Parsing "jinja2.environment" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\environment.py")
+2018-06-25T10:04:45: Parsing "jinja2.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\exceptions.py")
+2018-06-25T10:04:45: Parsing "jinja2.ext" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\ext.py")
+2018-06-25T10:04:45: Parsing "jinja2.filters" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\filters.py")
+2018-06-25T10:04:45: Parsing "jinja2.idtracking" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\idtracking.py")
+2018-06-25T10:04:45: Parsing "jinja2.lexer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\lexer.py")
+2018-06-25T10:04:45: Parsing "jinja2.loaders" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\loaders.py")
+2018-06-25T10:04:45: Parsing "jinja2.meta" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\meta.py")
+2018-06-25T10:04:45: Parsing "jinja2.nativetypes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\nativetypes.py")
+2018-06-25T10:04:45: Parsing "jinja2.nodes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\nodes.py")
+2018-06-25T10:04:45: Parsing "jinja2.optimizer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\optimizer.py")
+2018-06-25T10:04:45: Parsing "jinja2.parser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\parser.py")
+2018-06-25T10:04:45: Parsing "jinja2.runtime" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\runtime.py")
+2018-06-25T10:04:45: Parsing "jinja2.sandbox" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\sandbox.py")
+2018-06-25T10:04:45: Parsing "jinja2.tests" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\tests.py")
+2018-06-25T10:04:45: Parsing "jinja2.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\utils.py")
+2018-06-25T10:04:45: Parsing "jinja2.visitor" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\visitor.py")
+2018-06-25T10:04:45: Parsing "jinja2._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\_compat.py")
+2018-06-25T10:04:45: Parsing "jinja2._identifier" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\_identifier.py")
+2018-06-25T10:04:45: Parsing "jinja2" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\__init__.py")
+2018-06-25T10:04:45: Parsing complete
+2018-06-25T10:04:45: Analyzing "jinja2.asyncfilters"
+2018-06-25T10:04:45: Analyzing "jinja2.asyncsupport"
+2018-06-25T10:04:45: Analyzing "jinja2.bccache"
+2018-06-25T10:04:45: Analyzing "jinja2.compiler"
+2018-06-25T10:04:45: Analyzing "jinja2.constants"
+2018-06-25T10:04:45: Analyzing "jinja2.debug"
+2018-06-25T10:04:45: Analyzing "jinja2.defaults"
+2018-06-25T10:04:45: Analyzing "jinja2.environment"
+2018-06-25T10:04:45: Analyzing "jinja2.exceptions"
+2018-06-25T10:04:45: Analyzing "jinja2.ext"
+2018-06-25T10:04:45: Analyzing "jinja2.filters"
+2018-06-25T10:04:45: Analyzing "jinja2.idtracking"
+2018-06-25T10:04:45: Analyzing "jinja2.lexer"
+2018-06-25T10:04:45: Analyzing "jinja2.loaders"
+2018-06-25T10:04:45: Analyzing "jinja2.meta"
+2018-06-25T10:04:45: Analyzing "jinja2.nativetypes"
+2018-06-25T10:04:45: Analyzing "jinja2.nodes"
+2018-06-25T10:04:45: Analyzing "jinja2.optimizer"
+2018-06-25T10:04:45: Analyzing "jinja2.parser"
+2018-06-25T10:04:45: Analyzing "jinja2.runtime"
+2018-06-25T10:04:45: Analyzing "jinja2.sandbox"
+2018-06-25T10:04:45: Analyzing "jinja2.tests"
+2018-06-25T10:04:45: Analyzing "jinja2.utils"
+2018-06-25T10:04:45: Analyzing "jinja2.visitor"
+2018-06-25T10:04:45: Analyzing "jinja2._compat"
+2018-06-25T10:04:45: Analyzing "jinja2._identifier"
+2018-06-25T10:04:45: Analyzing "jinja2"
+2018-06-25T10:04:45: Starting analysis of 27 modules
+2018-06-25T10:04:50: Analysis complete
+2018-06-25T10:04:50: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2"
+2018-06-25T10:04:50: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2"
+2018-06-25T10:04:50: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe" with 4 files
+2018-06-25T10:04:51: Parsing "markupsafe._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_compat.py")
+2018-06-25T10:04:51: Parsing "markupsafe._constants" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_constants.py")
+2018-06-25T10:04:51: Parsing "markupsafe._native" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_native.py")
+2018-06-25T10:04:51: Parsing "markupsafe" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\__init__.py")
+2018-06-25T10:04:51: Parsing complete
+2018-06-25T10:04:51: Analyzing "markupsafe._compat"
+2018-06-25T10:04:51: Analyzing "markupsafe._constants"
+2018-06-25T10:04:51: Analyzing "markupsafe._native"
+2018-06-25T10:04:51: Analyzing "markupsafe"
+2018-06-25T10:04:51: Starting analysis of 4 modules
+2018-06-25T10:04:54: Analysis complete
+2018-06-25T10:04:54: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe"
+2018-06-25T10:04:54: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe"
+2018-06-25T10:04:54: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip" with 282 files
+2018-06-25T10:04:54: Parsing "pip" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\__init__.py")
+2018-06-25T10:04:54: Parsing "pip.__main__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\__main__.py")
+2018-06-25T10:04:54: Parsing "pip._internal.basecommand" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\basecommand.py")
+2018-06-25T10:04:54: Parsing "pip._internal.baseparser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\baseparser.py")
+2018-06-25T10:04:54: Parsing "pip._internal.build_env" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\build_env.py")
+2018-06-25T10:04:54: Parsing "pip._internal.cache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\cache.py")
+2018-06-25T10:04:54: Parsing "pip._internal.cmdoptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\cmdoptions.py")
+2018-06-25T10:04:54: Parsing "pip._internal.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\compat.py")
+2018-06-25T10:04:54: Parsing "pip._internal.configuration" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\configuration.py")
+2018-06-25T10:04:54: Parsing "pip._internal.download" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\download.py")
+2018-06-25T10:04:54: Parsing "pip._internal.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\exceptions.py")
+2018-06-25T10:04:54: Parsing "pip._internal.index" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\index.py")
+2018-06-25T10:04:54: Parsing "pip._internal.locations" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\locations.py")
+2018-06-25T10:04:54: Parsing "pip._internal.pep425tags" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\pep425tags.py")
+2018-06-25T10:04:54: Parsing "pip._internal.resolve" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\resolve.py")
+2018-06-25T10:04:54: Parsing "pip._internal.status_codes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\status_codes.py")
+2018-06-25T10:04:54: Parsing "pip._internal.wheel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\wheel.py")
+2018-06-25T10:04:54: Parsing "pip._internal" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\__init__.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.check" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\check.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.completion" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\completion.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.configuration" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\configuration.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.download" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\download.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.freeze" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\freeze.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.hash" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\hash.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.help" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\help.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.install" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\install.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.list" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\list.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.search" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\search.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.show" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\show.py")
+2018-06-25T10:04:54: Parsing "pip._internal.commands.uninstall" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\uninstall.py")
+2018-06-25T10:04:55: Parsing "pip._internal.commands.wheel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\wheel.py")
+2018-06-25T10:04:55: Parsing "pip._internal.commands" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\commands\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._internal.models.index" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\models\index.py")
+2018-06-25T10:04:55: Parsing "pip._internal.models" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\models\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._internal.operations.check" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\operations\check.py")
+2018-06-25T10:04:55: Parsing "pip._internal.operations.freeze" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\operations\freeze.py")
+2018-06-25T10:04:55: Parsing "pip._internal.operations.prepare" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\operations\prepare.py")
+2018-06-25T10:04:55: Parsing "pip._internal.operations" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\operations\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._internal.req.req_file" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\req\req_file.py")
+2018-06-25T10:04:55: Parsing "pip._internal.req.req_install" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\req\req_install.py")
+2018-06-25T10:04:55: Parsing "pip._internal.req.req_set" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\req\req_set.py")
+2018-06-25T10:04:55: Parsing "pip._internal.req.req_uninstall" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\req\req_uninstall.py")
+2018-06-25T10:04:55: Parsing "pip._internal.req" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\req\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.appdirs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\appdirs.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.deprecation" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\deprecation.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.encoding" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\encoding.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.filesystem" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\filesystem.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.glibc" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\glibc.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.hashes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\hashes.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.logging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\logging.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.misc" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\misc.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.outdated" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\outdated.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.packaging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\packaging.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.setuptools_build" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\setuptools_build.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.temp_dir" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\temp_dir.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.typing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\typing.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils.ui" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\ui.py")
+2018-06-25T10:04:55: Parsing "pip._internal.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\utils\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._internal.vcs.bazaar" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\vcs\bazaar.py")
+2018-06-25T10:04:55: Parsing "pip._internal.vcs.git" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\vcs\git.py")
+2018-06-25T10:04:55: Parsing "pip._internal.vcs.mercurial" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\vcs\mercurial.py")
+2018-06-25T10:04:55: Parsing "pip._internal.vcs.subversion" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\vcs\subversion.py")
+2018-06-25T10:04:55: Parsing "pip._internal.vcs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_internal\vcs\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.appdirs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\appdirs.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.distro" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distro.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.ipaddress" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.pyparsing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.retrying" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\retrying.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.six" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\six.py")
+2018-06-25T10:04:55: Parsing "pip._vendor" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.adapter" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.cache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.controller" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.filewrapper" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.heuristics" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.serialize" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.wrapper" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol._cmd" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.cachecontrol.caches" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.certifi.core" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\certifi\core.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.certifi" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\certifi\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.certifi.__main__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\certifi\__main__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.big5freq" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\big5freq.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.big5prober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\big5prober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.chardistribution" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\chardistribution.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.charsetgroupprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\charsetgroupprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.charsetprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\charsetprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.codingstatemachine" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\codingstatemachine.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\compat.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.cp949prober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\cp949prober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.enums" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\enums.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.escprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\escprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.escsm" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\escsm.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.eucjpprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\eucjpprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.euckrfreq" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\euckrfreq.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.euckrprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\euckrprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.euctwfreq" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\euctwfreq.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.euctwprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\euctwprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.gb2312freq" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\gb2312freq.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.gb2312prober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\gb2312prober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.hebrewprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\hebrewprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.jisfreq" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\jisfreq.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.jpcntx" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\jpcntx.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langbulgarianmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langbulgarianmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langcyrillicmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langcyrillicmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langgreekmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langgreekmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langhebrewmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langhebrewmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langhungarianmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langhungarianmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langthaimodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langthaimodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.langturkishmodel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\langturkishmodel.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.latin1prober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\latin1prober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.mbcharsetprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\mbcharsetprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.mbcsgroupprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\mbcsgroupprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.mbcssm" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\mbcssm.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.sbcharsetprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\sbcharsetprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.sbcsgroupprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\sbcsgroupprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.sjisprober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\sjisprober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.universaldetector" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\universaldetector.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.utf8prober" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\utf8prober.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\version.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.cli.chardetect" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\cli\chardetect.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.chardet.cli" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\chardet\cli\__init__.py")
+2018-06-25T10:04:55: Parsing "pip._vendor.colorama.ansi" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.colorama.ansitowin32" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.colorama.initialise" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.colorama.win32" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.colorama.winterm" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.colorama" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.database" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.index" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.locators" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.manifest" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.markers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.metadata" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.resources" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.scripts" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.util" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib.wheel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib._backport.misc" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib._backport.shutil" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib._backport.sysconfig" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib._backport.tarfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.distlib._backport" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.constants" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.html5parser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.serializer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._ihatexml" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._inputstream" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._tokenizer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.base" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.lint" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters.whitespace" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.filters" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treeadapters" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treebuilders.base" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treebuilders" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers.base" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib.treewalkers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._trie.datrie" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._trie.py" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._trie._base" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.html5lib._trie" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.codec" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\codec.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\compat.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.core" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\core.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.idnadata" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\idnadata.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.intranges" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\intranges.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.package_data" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\package_data.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna.uts46data" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\uts46data.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.idna" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\idna\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile.linklockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile.pidlockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile.symlinklockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.lockfile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.msgpack.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\msgpack\exceptions.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.msgpack.fallback" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\msgpack\fallback.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.msgpack._version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\msgpack\_version.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.msgpack" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\msgpack\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.markers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.requirements" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.specifiers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging._structures" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging.__about__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.packaging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pkg_resources.py31compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\py31compat.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pkg_resources" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.progress.bar" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.progress.counter" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.progress.helpers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.progress.spinner" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.progress" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pytoml.core" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pytoml\core.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pytoml.parser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pytoml\parser.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pytoml.writer" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pytoml\writer.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.pytoml" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pytoml\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.adapters" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.api" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.auth" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.certs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.cookies" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.help" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\help.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.hooks" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.models" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.packages" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.sessions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.status_codes" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.structures" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests._internal_utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\_internal_utils.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.requests.__version__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\__version__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.connection" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\connection.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.connectionpool" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\exceptions.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.fields" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\fields.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.filepost" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\filepost.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.poolmanager" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.request" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\request.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.response" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\response.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3._collections" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\_collections.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib.appengine" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\appengine.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib.ntlmpool" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\ntlmpool.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib.pyopenssl" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\pyopenssl.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib.securetransport" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\securetransport.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib.socks" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\socks.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib._securetransport.bindings" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib._securetransport.low_level" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\low_level.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.contrib._securetransport" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\__init__.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.packages.ordered_dict" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\ordered_dict.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.packages.six" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\six.py")
+2018-06-25T10:04:56: Parsing "pip._vendor.urllib3.packages" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\__init__.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.packages.backports.makefile" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\backports\makefile.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.packages.backports" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\backports\__init__.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.packages.ssl_match_hostname" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.connection" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\connection.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.request" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\request.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.response" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\response.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.retry" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\retry.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.selectors" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\selectors.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.ssl_" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\ssl_.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.timeout" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\timeout.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.url" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\url.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util.wait" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\wait.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.urllib3.util" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\urllib3\util\__init__.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.webencodings.labels" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.webencodings.mklabels" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.webencodings.tests" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.webencodings.x_user_defined" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2018-06-25T10:04:57: Parsing "pip._vendor.webencodings" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2018-06-25T10:04:57: Parsing complete
+2018-06-25T10:04:57: Analyzing "pip"
+2018-06-25T10:04:57: Analyzing "pip.__main__"
+2018-06-25T10:04:57: Analyzing "pip._internal.basecommand"
+2018-06-25T10:04:57: Analyzing "pip._internal.baseparser"
+2018-06-25T10:04:57: Analyzing "pip._internal.build_env"
+2018-06-25T10:04:57: Analyzing "pip._internal.cache"
+2018-06-25T10:04:57: Analyzing "pip._internal.cmdoptions"
+2018-06-25T10:04:57: Analyzing "pip._internal.compat"
+2018-06-25T10:04:57: Analyzing "pip._internal.configuration"
+2018-06-25T10:04:57: Analyzing "pip._internal.download"
+2018-06-25T10:04:57: Analyzing "pip._internal.exceptions"
+2018-06-25T10:04:57: Analyzing "pip._internal.index"
+2018-06-25T10:04:57: Analyzing "pip._internal.locations"
+2018-06-25T10:04:57: Analyzing "pip._internal.pep425tags"
+2018-06-25T10:04:57: Analyzing "pip._internal.resolve"
+2018-06-25T10:04:57: Analyzing "pip._internal.status_codes"
+2018-06-25T10:04:57: Analyzing "pip._internal.wheel"
+2018-06-25T10:04:57: Analyzing "pip._internal"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.check"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.completion"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.configuration"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.download"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.freeze"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.hash"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.help"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.install"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.list"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.search"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.show"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.uninstall"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands.wheel"
+2018-06-25T10:04:57: Analyzing "pip._internal.commands"
+2018-06-25T10:04:57: Analyzing "pip._internal.models.index"
+2018-06-25T10:04:57: Analyzing "pip._internal.models"
+2018-06-25T10:04:57: Analyzing "pip._internal.operations.check"
+2018-06-25T10:04:57: Analyzing "pip._internal.operations.freeze"
+2018-06-25T10:04:57: Analyzing "pip._internal.operations.prepare"
+2018-06-25T10:04:57: Analyzing "pip._internal.operations"
+2018-06-25T10:04:57: Analyzing "pip._internal.req.req_file"
+2018-06-25T10:04:57: Analyzing "pip._internal.req.req_install"
+2018-06-25T10:04:57: Analyzing "pip._internal.req.req_set"
+2018-06-25T10:04:57: Analyzing "pip._internal.req.req_uninstall"
+2018-06-25T10:04:57: Analyzing "pip._internal.req"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.appdirs"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.deprecation"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.encoding"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.filesystem"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.glibc"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.hashes"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.logging"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.misc"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.outdated"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.packaging"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.setuptools_build"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.temp_dir"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.typing"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils.ui"
+2018-06-25T10:04:57: Analyzing "pip._internal.utils"
+2018-06-25T10:04:57: Analyzing "pip._internal.vcs.bazaar"
+2018-06-25T10:04:57: Analyzing "pip._internal.vcs.git"
+2018-06-25T10:04:57: Analyzing "pip._internal.vcs.mercurial"
+2018-06-25T10:04:57: Analyzing "pip._internal.vcs.subversion"
+2018-06-25T10:04:57: Analyzing "pip._internal.vcs"
+2018-06-25T10:04:57: Analyzing "pip._vendor.appdirs"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distro"
+2018-06-25T10:04:57: Analyzing "pip._vendor.ipaddress"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pyparsing"
+2018-06-25T10:04:57: Analyzing "pip._vendor.retrying"
+2018-06-25T10:04:57: Analyzing "pip._vendor.six"
+2018-06-25T10:04:57: Analyzing "pip._vendor"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.adapter"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.cache"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.controller"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.heuristics"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.serialize"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.wrapper"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol._cmd"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2018-06-25T10:04:57: Analyzing "pip._vendor.cachecontrol.caches"
+2018-06-25T10:04:57: Analyzing "pip._vendor.certifi.core"
+2018-06-25T10:04:57: Analyzing "pip._vendor.certifi"
+2018-06-25T10:04:57: Analyzing "pip._vendor.certifi.__main__"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.big5freq"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.big5prober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.chardistribution"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.charsetgroupprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.charsetprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.codingstatemachine"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.cp949prober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.enums"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.escprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.escsm"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.eucjpprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.euckrfreq"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.euckrprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.euctwfreq"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.euctwprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.gb2312freq"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.gb2312prober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.hebrewprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.jisfreq"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.jpcntx"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langbulgarianmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langcyrillicmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langgreekmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langhebrewmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langhungarianmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langthaimodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.langturkishmodel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.latin1prober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.mbcharsetprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.mbcsgroupprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.mbcssm"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.sbcharsetprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.sbcsgroupprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.sjisprober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.universaldetector"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.utf8prober"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.version"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.cli.chardetect"
+2018-06-25T10:04:57: Analyzing "pip._vendor.chardet.cli"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama.ansi"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama.ansitowin32"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama.initialise"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama.win32"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama.winterm"
+2018-06-25T10:04:57: Analyzing "pip._vendor.colorama"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.database"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.index"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.locators"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.manifest"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.markers"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.metadata"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.resources"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.scripts"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.util"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.version"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib.wheel"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib._backport.misc"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib._backport.shutil"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib._backport.tarfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.distlib._backport"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.constants"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.html5parser"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.serializer"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._ihatexml"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._inputstream"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._tokenizer"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._utils"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.base"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.lint"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.filters"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treeadapters"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treebuilders"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib.treewalkers"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._trie.datrie"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._trie.py"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._trie._base"
+2018-06-25T10:04:57: Analyzing "pip._vendor.html5lib._trie"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.codec"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.core"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.idnadata"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.intranges"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.package_data"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna.uts46data"
+2018-06-25T10:04:57: Analyzing "pip._vendor.idna"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile.linklockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile.pidlockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.lockfile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.msgpack.exceptions"
+2018-06-25T10:04:57: Analyzing "pip._vendor.msgpack.fallback"
+2018-06-25T10:04:57: Analyzing "pip._vendor.msgpack._version"
+2018-06-25T10:04:57: Analyzing "pip._vendor.msgpack"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.markers"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.requirements"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.specifiers"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.utils"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.version"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging._compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging._structures"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging.__about__"
+2018-06-25T10:04:57: Analyzing "pip._vendor.packaging"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pkg_resources.py31compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pkg_resources"
+2018-06-25T10:04:57: Analyzing "pip._vendor.progress.bar"
+2018-06-25T10:04:57: Analyzing "pip._vendor.progress.counter"
+2018-06-25T10:04:57: Analyzing "pip._vendor.progress.helpers"
+2018-06-25T10:04:57: Analyzing "pip._vendor.progress.spinner"
+2018-06-25T10:04:57: Analyzing "pip._vendor.progress"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pytoml.core"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pytoml.parser"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pytoml.writer"
+2018-06-25T10:04:57: Analyzing "pip._vendor.pytoml"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.adapters"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.api"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.auth"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.certs"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.compat"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.cookies"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.exceptions"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.help"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.hooks"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.models"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.packages"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.sessions"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.status_codes"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.structures"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.utils"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests._internal_utils"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests"
+2018-06-25T10:04:57: Analyzing "pip._vendor.requests.__version__"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.connection"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.connectionpool"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.exceptions"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.fields"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.filepost"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.poolmanager"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.request"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.response"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3._collections"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib.appengine"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib.ntlmpool"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib.pyopenssl"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib.securetransport"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib.socks"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib._securetransport.bindings"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib._securetransport.low_level"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.contrib._securetransport"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.ordered_dict"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.six"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.backports.makefile"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.backports"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.ssl_match_hostname._implementation"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.packages.ssl_match_hostname"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.connection"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.request"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.response"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.retry"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.selectors"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.ssl_"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.timeout"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.url"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util.wait"
+2018-06-25T10:04:57: Analyzing "pip._vendor.urllib3.util"
+2018-06-25T10:04:57: Analyzing "pip._vendor.webencodings.labels"
+2018-06-25T10:04:57: Analyzing "pip._vendor.webencodings.mklabels"
+2018-06-25T10:04:57: Analyzing "pip._vendor.webencodings.tests"
+2018-06-25T10:04:57: Analyzing "pip._vendor.webencodings.x_user_defined"
+2018-06-25T10:04:57: Analyzing "pip._vendor.webencodings"
+2018-06-25T10:04:57: Starting analysis of 282 modules
+2018-06-25T10:12:09: Analysis complete
+2018-06-25T10:12:09: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip"
+2018-06-25T10:12:11: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip"
+2018-06-25T10:12:11: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources" with 16 files
+2018-06-25T10:12:11: Parsing "pkg_resources.py31compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\py31compat.py")
+2018-06-25T10:12:11: Parsing "pkg_resources" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\__init__.py")
+2018-06-25T10:12:11: Parsing "pkg_resources.extern" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.appdirs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.pyparsing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.six" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.markers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.requirements" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.specifiers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging._structures" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging.__about__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-06-25T10:12:11: Parsing "pkg_resources._vendor.packaging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-06-25T10:12:11: Parsing complete
+2018-06-25T10:12:11: Analyzing "pkg_resources.py31compat"
+2018-06-25T10:12:11: Analyzing "pkg_resources"
+2018-06-25T10:12:11: Analyzing "pkg_resources.extern"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.appdirs"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.pyparsing"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.six"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.markers"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.requirements"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.utils"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.version"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging._compat"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging._structures"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging.__about__"
+2018-06-25T10:12:11: Analyzing "pkg_resources._vendor.packaging"
+2018-06-25T10:12:11: Starting analysis of 16 modules
+2018-06-25T10:12:16: Analysis complete
+2018-06-25T10:12:16: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources"
+2018-06-25T10:12:16: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources"
+2018-06-25T10:12:16: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools" with 65 files
+2018-06-25T10:12:16: Parsing "setuptools.archive_util" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\archive_util.py")
+2018-06-25T10:12:16: Parsing "setuptools.build_meta" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\build_meta.py")
+2018-06-25T10:12:16: Parsing "setuptools.config" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\config.py")
+2018-06-25T10:12:16: Parsing "setuptools.depends" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\depends.py")
+2018-06-25T10:12:16: Parsing "setuptools.dep_util" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\dep_util.py")
+2018-06-25T10:12:16: Parsing "setuptools.dist" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\dist.py")
+2018-06-25T10:12:16: Parsing "setuptools.extension" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\extension.py")
+2018-06-25T10:12:16: Parsing "setuptools.glibc" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\glibc.py")
+2018-06-25T10:12:16: Parsing "setuptools.glob" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\glob.py")
+2018-06-25T10:12:16: Parsing "setuptools.launch" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\launch.py")
+2018-06-25T10:12:16: Parsing "setuptools.lib2to3_ex" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2018-06-25T10:12:16: Parsing "setuptools.monkey" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\monkey.py")
+2018-06-25T10:12:16: Parsing "setuptools.msvc" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\msvc.py")
+2018-06-25T10:12:16: Parsing "setuptools.namespaces" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\namespaces.py")
+2018-06-25T10:12:16: Parsing "setuptools.package_index" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\package_index.py")
+2018-06-25T10:12:16: Parsing "setuptools.pep425tags" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\pep425tags.py")
+2018-06-25T10:12:16: Parsing "setuptools.py27compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py27compat.py")
+2018-06-25T10:12:16: Parsing "setuptools.py31compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py31compat.py")
+2018-06-25T10:12:16: Parsing "setuptools.py33compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py33compat.py")
+2018-06-25T10:12:16: Parsing "setuptools.py36compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py36compat.py")
+2018-06-25T10:12:16: Parsing "setuptools.sandbox" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\sandbox.py")
+2018-06-25T10:12:16: Parsing "setuptools.ssl_support" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\ssl_support.py")
+2018-06-25T10:12:16: Parsing "setuptools.unicode_utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\unicode_utils.py")
+2018-06-25T10:12:16: Parsing "setuptools.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\version.py")
+2018-06-25T10:12:16: Parsing "setuptools.wheel" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\wheel.py")
+2018-06-25T10:12:16: Parsing "setuptools.windows_support" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\windows_support.py")
+2018-06-25T10:12:16: Parsing "setuptools" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\__init__.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.alias" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\alias.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.bdist_egg" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.bdist_rpm" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.bdist_wininst" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.build_clib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\build_clib.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.build_ext" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\build_ext.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.build_py" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\build_py.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.develop" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\develop.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.dist_info" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\dist_info.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.easy_install" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\easy_install.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.egg_info" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\egg_info.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.install" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.install_egg_info" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.install_lib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_lib.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.install_scripts" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.py36compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\py36compat.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.register" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\register.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.rotate" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\rotate.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.saveopts" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\saveopts.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.sdist" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\sdist.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.setopt" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\setopt.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.test" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\test.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.upload" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\upload.py")
+2018-06-25T10:12:16: Parsing "setuptools.command.upload_docs" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2018-06-25T10:12:16: Parsing "setuptools.command" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\__init__.py")
+2018-06-25T10:12:16: Parsing "setuptools.extern" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\extern\__init__.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.pyparsing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\pyparsing.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.six" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\six.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\__init__.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.markers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\markers.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.requirements" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\requirements.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.specifiers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\specifiers.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\utils.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.version" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\version.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\_compat.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging._structures" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\_structures.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging.__about__" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\__about__.py")
+2018-06-25T10:12:16: Parsing "setuptools._vendor.packaging" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\_vendor\packaging\__init__.py")
+2018-06-25T10:12:16: Parsing complete
+2018-06-25T10:12:16: Analyzing "setuptools.archive_util"
+2018-06-25T10:12:16: Analyzing "setuptools.build_meta"
+2018-06-25T10:12:16: Analyzing "setuptools.config"
+2018-06-25T10:12:16: Analyzing "setuptools.depends"
+2018-06-25T10:12:16: Analyzing "setuptools.dep_util"
+2018-06-25T10:12:16: Analyzing "setuptools.dist"
+2018-06-25T10:12:16: Analyzing "setuptools.extension"
+2018-06-25T10:12:16: Analyzing "setuptools.glibc"
+2018-06-25T10:12:16: Analyzing "setuptools.glob"
+2018-06-25T10:12:16: Analyzing "setuptools.launch"
+2018-06-25T10:12:16: Analyzing "setuptools.lib2to3_ex"
+2018-06-25T10:12:16: Analyzing "setuptools.monkey"
+2018-06-25T10:12:16: Analyzing "setuptools.msvc"
+2018-06-25T10:12:16: Analyzing "setuptools.namespaces"
+2018-06-25T10:12:16: Analyzing "setuptools.package_index"
+2018-06-25T10:12:16: Analyzing "setuptools.pep425tags"
+2018-06-25T10:12:16: Analyzing "setuptools.py27compat"
+2018-06-25T10:12:16: Analyzing "setuptools.py31compat"
+2018-06-25T10:12:16: Analyzing "setuptools.py33compat"
+2018-06-25T10:12:16: Analyzing "setuptools.py36compat"
+2018-06-25T10:12:16: Analyzing "setuptools.sandbox"
+2018-06-25T10:12:16: Analyzing "setuptools.ssl_support"
+2018-06-25T10:12:16: Analyzing "setuptools.unicode_utils"
+2018-06-25T10:12:16: Analyzing "setuptools.version"
+2018-06-25T10:12:16: Analyzing "setuptools.wheel"
+2018-06-25T10:12:16: Analyzing "setuptools.windows_support"
+2018-06-25T10:12:16: Analyzing "setuptools"
+2018-06-25T10:12:16: Analyzing "setuptools.command.alias"
+2018-06-25T10:12:16: Analyzing "setuptools.command.bdist_egg"
+2018-06-25T10:12:16: Analyzing "setuptools.command.bdist_rpm"
+2018-06-25T10:12:16: Analyzing "setuptools.command.bdist_wininst"
+2018-06-25T10:12:16: Analyzing "setuptools.command.build_clib"
+2018-06-25T10:12:16: Analyzing "setuptools.command.build_ext"
+2018-06-25T10:12:16: Analyzing "setuptools.command.build_py"
+2018-06-25T10:12:16: Analyzing "setuptools.command.develop"
+2018-06-25T10:12:16: Analyzing "setuptools.command.dist_info"
+2018-06-25T10:12:16: Analyzing "setuptools.command.easy_install"
+2018-06-25T10:12:16: Analyzing "setuptools.command.egg_info"
+2018-06-25T10:12:16: Analyzing "setuptools.command.install"
+2018-06-25T10:12:16: Analyzing "setuptools.command.install_egg_info"
+2018-06-25T10:12:16: Analyzing "setuptools.command.install_lib"
+2018-06-25T10:12:16: Analyzing "setuptools.command.install_scripts"
+2018-06-25T10:12:16: Analyzing "setuptools.command.py36compat"
+2018-06-25T10:12:16: Analyzing "setuptools.command.register"
+2018-06-25T10:12:16: Analyzing "setuptools.command.rotate"
+2018-06-25T10:12:16: Analyzing "setuptools.command.saveopts"
+2018-06-25T10:12:16: Analyzing "setuptools.command.sdist"
+2018-06-25T10:12:16: Analyzing "setuptools.command.setopt"
+2018-06-25T10:12:16: Analyzing "setuptools.command.test"
+2018-06-25T10:12:16: Analyzing "setuptools.command.upload"
+2018-06-25T10:12:16: Analyzing "setuptools.command.upload_docs"
+2018-06-25T10:12:16: Analyzing "setuptools.command"
+2018-06-25T10:12:16: Analyzing "setuptools.extern"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.pyparsing"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.six"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.markers"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.requirements"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.specifiers"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.utils"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.version"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging._compat"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging._structures"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging.__about__"
+2018-06-25T10:12:16: Analyzing "setuptools._vendor.packaging"
+2018-06-25T10:12:16: Starting analysis of 65 modules
+2018-06-25T10:12:21: Analysis complete
+2018-06-25T10:12:21: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools"
+2018-06-25T10:12:22: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools"
+2018-06-25T10:12:22: Start group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug" with 40 files
+2018-06-25T10:12:22: Parsing "werkzeug.datastructures" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\datastructures.py")
+2018-06-25T10:12:22: Parsing "werkzeug.exceptions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\exceptions.py")
+2018-06-25T10:12:22: Parsing "werkzeug.filesystem" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\filesystem.py")
+2018-06-25T10:12:22: Parsing "werkzeug.formparser" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\formparser.py")
+2018-06-25T10:12:22: Parsing "werkzeug.http" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\http.py")
+2018-06-25T10:12:22: Parsing "werkzeug.local" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\local.py")
+2018-06-25T10:12:22: Parsing "werkzeug.posixemulation" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\posixemulation.py")
+2018-06-25T10:12:22: Parsing "werkzeug.routing" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\routing.py")
+2018-06-25T10:12:22: Parsing "werkzeug.script" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\script.py")
+2018-06-25T10:12:22: Parsing "werkzeug.security" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\security.py")
+2018-06-25T10:12:22: Parsing "werkzeug.serving" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\serving.py")
+2018-06-25T10:12:22: Parsing "werkzeug.test" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\test.py")
+2018-06-25T10:12:22: Parsing "werkzeug.testapp" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\testapp.py")
+2018-06-25T10:12:22: Parsing "werkzeug.urls" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\urls.py")
+2018-06-25T10:12:22: Parsing "werkzeug.useragents" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\useragents.py")
+2018-06-25T10:12:22: Parsing "werkzeug.utils" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\utils.py")
+2018-06-25T10:12:22: Parsing "werkzeug.websocket" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\websocket.py")
+2018-06-25T10:12:22: Parsing "werkzeug.wrappers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\wrappers.py")
+2018-06-25T10:12:22: Parsing "werkzeug.wsgi" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\wsgi.py")
+2018-06-25T10:12:22: Parsing "werkzeug._compat" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_compat.py")
+2018-06-25T10:12:22: Parsing "werkzeug._internal" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_internal.py")
+2018-06-25T10:12:22: Parsing "werkzeug._reloader" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_reloader.py")
+2018-06-25T10:12:22: Parsing "werkzeug" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\__init__.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.atom" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\atom.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.cache" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\cache.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.fixers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\fixers.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.iterio" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\iterio.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.jsrouting" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.limiter" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\limiter.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.lint" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\lint.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.profiler" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\profiler.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.securecookie" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.sessions" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\sessions.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.testtools" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\testtools.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib.wrappers" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2018-06-25T10:12:22: Parsing "werkzeug.contrib" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\__init__.py")
+2018-06-25T10:12:22: Parsing "werkzeug.debug.console" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\console.py")
+2018-06-25T10:12:22: Parsing "werkzeug.debug.repr" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\repr.py")
+2018-06-25T10:12:22: Parsing "werkzeug.debug.tbtools" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\tbtools.py")
+2018-06-25T10:12:22: Parsing "werkzeug.debug" ("c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\__init__.py")
+2018-06-25T10:12:22: Parsing complete
+2018-06-25T10:12:22: Analyzing "werkzeug.datastructures"
+2018-06-25T10:12:22: Analyzing "werkzeug.exceptions"
+2018-06-25T10:12:22: Analyzing "werkzeug.filesystem"
+2018-06-25T10:12:22: Analyzing "werkzeug.formparser"
+2018-06-25T10:12:22: Analyzing "werkzeug.http"
+2018-06-25T10:12:22: Analyzing "werkzeug.local"
+2018-06-25T10:12:22: Analyzing "werkzeug.posixemulation"
+2018-06-25T10:12:22: Analyzing "werkzeug.routing"
+2018-06-25T10:12:22: Analyzing "werkzeug.script"
+2018-06-25T10:12:22: Analyzing "werkzeug.security"
+2018-06-25T10:12:22: Analyzing "werkzeug.serving"
+2018-06-25T10:12:22: Analyzing "werkzeug.test"
+2018-06-25T10:12:22: Analyzing "werkzeug.testapp"
+2018-06-25T10:12:22: Analyzing "werkzeug.urls"
+2018-06-25T10:12:22: Analyzing "werkzeug.useragents"
+2018-06-25T10:12:22: Analyzing "werkzeug.utils"
+2018-06-25T10:12:22: Analyzing "werkzeug.websocket"
+2018-06-25T10:12:22: Analyzing "werkzeug.wrappers"
+2018-06-25T10:12:22: Analyzing "werkzeug.wsgi"
+2018-06-25T10:12:22: Analyzing "werkzeug._compat"
+2018-06-25T10:12:22: Analyzing "werkzeug._internal"
+2018-06-25T10:12:22: Analyzing "werkzeug._reloader"
+2018-06-25T10:12:22: Analyzing "werkzeug"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.atom"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.cache"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.fixers"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.iterio"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.jsrouting"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.limiter"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.lint"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.profiler"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.securecookie"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.sessions"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.testtools"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib.wrappers"
+2018-06-25T10:12:22: Analyzing "werkzeug.contrib"
+2018-06-25T10:12:22: Analyzing "werkzeug.debug.console"
+2018-06-25T10:12:22: Analyzing "werkzeug.debug.repr"
+2018-06-25T10:12:22: Analyzing "werkzeug.debug.tbtools"
+2018-06-25T10:12:22: Analyzing "werkzeug.debug"
+2018-06-25T10:12:22: Starting analysis of 40 modules
+2018-06-25T10:12:26: Analysis complete
+2018-06-25T10:12:26: Saving group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug"
+2018-06-25T10:12:26: End of group "c:\users\vinod.sharma\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug"
+2018-06-25T10:12:27: Deleting 0 files

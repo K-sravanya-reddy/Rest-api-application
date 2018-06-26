@@ -1,0 +1,16 @@
+sys
+implements_to_string
+PY2
+iteritems
+text_type
+integer_types
+iterkeys
+string_types
+getargspec
+_identity
+with_metaclass
+reraise
+_Mgr
+StringIO
+itervalues
+BROKEN_PYPY_CTXMGR_EXIT
